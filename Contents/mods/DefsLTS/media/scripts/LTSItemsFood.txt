@@ -157,7 +157,7 @@ module DLTS {
     DisplayName=Pickled Vegetable,
     Icon=PickledVegetables,
     HungerChange=-48,
-    EvolvedRecipe=Soup:12;Stew:12;Pie:12;Stir fry:12;Burger:12;Salad:12;Roasted Vegetables:12;RicePot:12;RicePan:12;PastaPot:12;PastaPan:12,
+    EvolvedRecipe=Soup:12;Stew:12;Pie:12;Stir fry Griddle Pan:12;Stir fry:12;Burger:12;Salad:12;Roasted Vegetables:12;RicePot:12;RicePan:12;PastaPot:12;PastaPan:12,
     Carbohydrates=75.33,
     Proteins=11.15,
     Lipids=4.26,
@@ -227,7 +227,7 @@ module DLTS {
     DisplayName=Dried Meat,
     Icon=DriedMeat,
     HungerChange=-12,
-    EvolvedRecipe=Soup:12;Stew:12;Pie:12;Stir fry:12;Burger:12;Salad:12;Roasted Vegetables:12;RicePot:12;RicePan:12;PastaPot:12;PastaPan:12,
+    EvolvedRecipe=Soup:12;Stew:12;Pie:12;Stir fry Griddle Pan:12;Stir fry:12;Burger:12;Salad:12;Roasted Vegetables:12;RicePot:12;RicePan:12;PastaPot:12;PastaPan:12,
     Carbohydrates=12.77,
     Proteins=15.43,
     Lipids=12.76,
@@ -241,7 +241,7 @@ module DLTS {
     DisplayName=Dried Herbs,
     Icon=DriedHerbs,
     HungerChange=-12,
-    EvolvedRecipe=Soup:12;Stew:12;Pie:12;Stir fry:12;Burger:12;Salad:12;Roasted Vegetables:12;RicePot:12;RicePan:12;PastaPot:12;PastaPan:12,
+    EvolvedRecipe=Soup:12;Stew:12;Pie:12;Stir fry Griddle Pan:12;Stir fry:12;Burger:12;Salad:12;Roasted Vegetables:12;RicePot:12;RicePan:12;PastaPot:12;PastaPan:12,
     Carbohydrates=14.45,
     Proteins=1.13,
     Lipids=1.75,
@@ -255,7 +255,7 @@ module DLTS {
     DisplayName=Dried Vegetable,
     Icon=DriedVegetable,
     HungerChange=-12,
-    EvolvedRecipe=Soup:12;Stew:12;Pie:12;Stir fry:12;Burger:12;Salad:12;Roasted Vegetables:12;RicePot:12;RicePan:12;PastaPot:12;PastaPan:12,
+    EvolvedRecipe=Soup:12;Stew:12;Pie:12;Stir fry Griddle Pan:12;Stir fry:12;Burger:12;Salad:12;Roasted Vegetables:12;RicePot:12;RicePan:12;PastaPot:12;PastaPan:12,
     Carbohydrates=21.97,
     Proteins=0.99,
     Lipids=0.26,
@@ -269,7 +269,7 @@ module DLTS {
     DisplayName=Dried Fruit,
     Icon=DriedFruit,
     HungerChange=-12,
-    EvolvedRecipe=Soup:12;Stew:12;Pie:12;Stir fry:12;Burger:12;Salad:12;Roasted Vegetables:12;RicePot:12;RicePan:12;PastaPot:12;PastaPan:12,
+    EvolvedRecipe=Soup:12;Stew:12;Pie:12;Stir fry Griddle Pan:12;Stir fry:12;Burger:12;Salad:12;Roasted Vegetables:12;RicePot:12;RicePan:12;PastaPot:12;PastaPan:12,
     Carbohydrates=47.36,
     Proteins=0.79,
     Lipids=0.08,
@@ -283,7 +283,7 @@ module DLTS {
     DisplayName=Dried Mushroom,
     Icon=DriedMushroom,
     HungerChange=-12,
-    EvolvedRecipe=Soup:12;Stew:12;Pie:12;Stir fry:12;Burger:12;Salad:12;Roasted Vegetables:12;RicePot:12;RicePan:12;PastaPot:12;PastaPan:12,
+    EvolvedRecipe=Soup:12;Stew:12;Pie:12;Stir fry Griddle Pan:12;Stir fry:12;Burger:12;Salad:12;Roasted Vegetables:12;RicePot:12;RicePan:12;PastaPot:12;PastaPan:12,
     Carbohydrates=21.95,
     Proteins=2.15,
     Lipids=2.33,
@@ -398,7 +398,7 @@ module DLTS {
     DisplayName=Bits of Meat,
     Icon=BitsMeat,
     HungerChange=-4,
-    EvolvedRecipe=Soup:4;Stew:4;Pie:4;Stir fry:4;Burger:4;Salad:4;Roasted Vegetables:4;RicePot:4;RicePan:4;PastaPot:4;PastaPan:4,
+    EvolvedRecipe=Soup:4;Stew:4;Pie:4;Stir fry Griddle Pan:4;Stir fry:4;Burger:4;Salad:4;Roasted Vegetables:4;RicePot:4;RicePan:4;PastaPot:4;PastaPan:4,
     Carbohydrates=1.22,
     Proteins=2.58,
     Lipids=1.76,
@@ -416,7 +416,7 @@ module DLTS {
     DisplayName=Bits of Herbs,
     Icon=BitsHerbs,
     HungerChange=-4,
-    EvolvedRecipe=Soup:4;Stew:4;Pie:4;Stir fry:4;Burger:4;Salad:4;Roasted Vegetables:4;RicePot:4;RicePan:4;PastaPot:4;PastaPan:4,
+    EvolvedRecipe=Soup:4;Stew:4;Pie:4;Stir fry Griddle Pan:4;Stir fry:4;Burger:4;Salad:4;Roasted Vegetables:4;RicePot:4;RicePan:4;PastaPot:4;PastaPan:4,
     Carbohydrates=4.33,
     Proteins=0.04,
     Lipids=0.11,
@@ -432,7 +432,7 @@ module DLTS {
     DisplayName=Bits of Vegetable,
     Icon=BitsVegetable,
     HungerChange=-4,
-    EvolvedRecipe=Soup:4;Stew:4;Pie:4;Stir fry:4;Burger:4;Salad:4;Roasted Vegetables:4;RicePot:4;RicePan:4;PastaPot:4;PastaPan:4,
+    EvolvedRecipe=Soup:4;Stew:4;Pie:4;Stir fry Griddle Pan:4;Stir fry:4;Burger:4;Salad:4;Roasted Vegetables:4;RicePot:4;RicePan:4;PastaPot:4;PastaPan:4,
     Carbohydrates=3.21,
     Proteins=0.11,
     Lipids=0.13,
@@ -448,7 +448,7 @@ module DLTS {
     DisplayName=Bits of Fruit,
     Icon=BitsFruit,
     HungerChange=-4,
-    EvolvedRecipe=Soup:4;Stew:4;Pie:4;Stir fry:4;Burger:4;Salad:4;Roasted Vegetables:4;RicePot:4;RicePan:4;PastaPot:4;PastaPan:4,
+    EvolvedRecipe=Soup:4;Stew:4;Pie:4;Stir fry Griddle Pan:4;Stir fry:4;Burger:4;Salad:4;Roasted Vegetables:4;RicePot:4;RicePan:4;PastaPot:4;PastaPan:4,
     Carbohydrates=7.45,
     Proteins=0.04,
     Lipids=0.01,
@@ -464,7 +464,7 @@ module DLTS {
     DisplayName=Bits of Mushroom,
     Icon=BitsMushroom,
     HungerChange=-4,
-    EvolvedRecipe=Soup:4;Stew:4;Pie:4;Stir fry:4;Burger:4;Salad:4;Roasted Vegetables:4;RicePot:4;RicePan:4;PastaPot:4;PastaPan:4,
+    EvolvedRecipe=Soup:4;Stew:4;Pie:4;Stir fry Griddle Pan:4;Stir fry:4;Burger:4;Salad:4;Roasted Vegetables:4;RicePot:4;RicePan:4;PastaPot:4;PastaPan:4,
     Carbohydrates=5.14,
     Proteins=1.21,
     Lipids=1.47,
@@ -484,7 +484,7 @@ module DLTS {
     Spice=true,
     HungerChange=-8,
     UnhappyChange=5,
-    EvolvedRecipe=Soup:1;Stew:1;Pie:1;Stir fry:1;Burger:1;Salad:1;Roasted Vegetables:1;RicePot:1;RicePan:1;PastaPot:1;PastaPan:1,
+    EvolvedRecipe=Soup:1;Stew:1;Pie:1;Stir fry Griddle Pan:1;Stir fry:1;Burger:1;Salad:1;Roasted Vegetables:1;RicePot:1;RicePan:1;PastaPot:1;PastaPan:1,
   }
 
   item LTSSeasoningFruit {
@@ -495,7 +495,7 @@ module DLTS {
     Spice=true,
     HungerChange=-8,
     UnhappyChange=5,
-    EvolvedRecipe=Soup:1;Stew:1;Pie:1;Stir fry:1;Burger:1;Salad:1;Roasted Vegetables:1;RicePot:1;RicePan:1;PastaPot:1;PastaPan:1,
+    EvolvedRecipe=Soup:1;Stew:1;Pie:1;Stir fry Griddle Pan:1;Stir fry:1;Burger:1;Salad:1;Roasted Vegetables:1;RicePot:1;RicePan:1;PastaPot:1;PastaPan:1,
   }
   
   item LTSSeasoningMushroom {
@@ -506,7 +506,7 @@ module DLTS {
     Spice=true,
     HungerChange=-8,
     UnhappyChange=5,
-    EvolvedRecipe=Soup:1;Stew:1;Pie:1;Stir fry:1;Burger:1;Salad:1;Roasted Vegetables:1;RicePot:1;RicePan:1;PastaPot:1;PastaPan:1,
+    EvolvedRecipe=Soup:1;Stew:1;Pie:1;Stir fry Griddle Pan:1;Stir fry:1;Burger:1;Salad:1;Roasted Vegetables:1;RicePot:1;RicePan:1;PastaPot:1;PastaPan:1,
   }
 
   /** ------------------------------------------------------------------------- **/
@@ -519,7 +519,7 @@ module DLTS {
     HungerChange=-5,
     DisplayName=Tea (Birch Bark),
     Icon=TeaBirch,
-    EvolvedRecipe=HotDrink:5,
+    EvolvedRecipe=HotDrink:5;HotDrinkRed:5;HotDrinkWhite:5;HotDrinkSpiffo:5,
     EvolvedRecipeName=Tea,
   }
 
@@ -530,7 +530,7 @@ module DLTS {
     HungerChange=-5,
     DisplayName=Tea (Fruit),
     Icon=TeaFruit,
-    EvolvedRecipe=HotDrink:5,
+    EvolvedRecipe=HotDrink:5;HotDrinkRed:5;HotDrinkWhite:5;HotDrinkSpiffo:5,
     EvolvedRecipeName=Tea,
   }
 
@@ -541,7 +541,7 @@ module DLTS {
     HungerChange=-5,
     DisplayName=Tea (Herbs),
     Icon=TeaHerbs,
-    EvolvedRecipe=HotDrink:5,
+    EvolvedRecipe=HotDrink:5;HotDrinkRed:5;HotDrinkWhite:5;HotDrinkSpiffo:5,
     EvolvedRecipeName=Tea,
   }
   
